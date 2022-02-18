@@ -1,0 +1,1 @@
+﻿The main challenge was to make the condition that a straight line will have the same length towards the top and bottom.
